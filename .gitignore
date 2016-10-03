@@ -1,0 +1,4 @@
+
+*.bak
+
+pcb/lightctrl-cache.lib
