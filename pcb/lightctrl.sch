@@ -30,6 +30,7 @@ LIBS:contrib
 LIBS:valves
 LIBS:esp-13
 LIBS:regulators
+LIBS:irf8788
 LIBS:lightctrl-cache
 EELAYER 25 0
 EELAYER END

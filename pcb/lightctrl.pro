@@ -1,4 +1,4 @@
-update=Montag, 03. Oktober 2016 'u47' 12:47:53
+update=Mon 03 Oct 2016 11:38:39 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=parts
@@ -60,5 +62,4 @@ LibName30=esp-13
 LibName31=regulators
 LibName32=parts/esp-13
 LibName33=parts/regulators
-[general]
-version=1
+LibName34=parts/irf8788
