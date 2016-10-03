@@ -2,3 +2,5 @@
 *.bak
 
 pcb/lightctrl-cache.lib
+
+*.kicad_pcb-bak
