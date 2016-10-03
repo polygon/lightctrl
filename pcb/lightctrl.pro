@@ -1,4 +1,4 @@
-update=Mon 19 Sep 2016 12:51:05 AM CEST
+update=Montag, 03. Oktober 2016 'u47' 12:47:53
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,11 +23,9 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
-LibDir=/home/jan/kicad-libs
+LibDir=parts
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,3 +58,7 @@ LibName28=contrib
 LibName29=valves
 LibName30=esp-13
 LibName31=regulators
+LibName32=parts/esp-13
+LibName33=parts/regulators
+[general]
+version=1
