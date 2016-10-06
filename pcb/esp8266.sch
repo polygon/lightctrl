@@ -448,9 +448,9 @@ $EndComp
 Text Label 9500 1100 0    60   ~ 0
 DTR
 Text Label 9500 1200 0    60   ~ 0
-RXI
-Text Label 9500 1300 0    60   ~ 0
 TXO
+Text Label 9500 1300 0    60   ~ 0
+RXI
 Text Label 9500 1400 0    60   ~ 0
 5V
 Text Label 9500 1500 0    60   ~ 0
@@ -480,9 +480,9 @@ F 3 "" H 9250 1300 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 7300 3050 2    60   ~ 0
-TXO
-Text Label 7300 3150 2    60   ~ 0
 RXI
+Text Label 7300 3150 2    60   ~ 0
+TXO
 $Comp
 L +3V3 #PWR017
 U 1 1 57F26C2A
