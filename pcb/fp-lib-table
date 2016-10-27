@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name ESP8266)(type KiCad)(uri "$(KIPRJMOD)/parts/ESP8266.pretty")(options "")(descr ""))
   (lib (name leds)(type KiCad)(uri "$(KIPRJMOD)/parts/leds.pretty")(options "")(descr ""))
+  (lib (name solder_jumper)(type KiCad)(uri "$(KIPRJMOD)/parts/solder_jumper.pretty")(options "")(descr ""))
 )
